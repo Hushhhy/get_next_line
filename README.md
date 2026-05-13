@@ -2,7 +2,7 @@
 
 ![cover](assets/cover.png)
 
-*This project has been created as part of the 42 curriculum by carpe.*
+*This project has been created as part of the 42 curriculum by acarpent.*
 
 <p align="center">
   <img src="assets/get_next_linem.png" alt="Badge">
