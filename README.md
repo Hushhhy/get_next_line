@@ -8,6 +8,12 @@
   <img src="assets/get_next_linem.png" alt="Badge">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Norm-42-green" alt="42 Norm">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status">
+</p>
+
 ---
 
 ## 📋 Description
