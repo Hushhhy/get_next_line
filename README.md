@@ -299,18 +299,18 @@ This aligns with 42's philosophy of building strong foundational knowledge throu
 
 Before submission, verify:
 
-- [ ] Function reads lines correctly from files
-- [ ] Works with stdin (standard input)
-- [ ] Handles various buffer sizes (1, 42, 1024, 9999)
-- [ ] No memory leaks detected
-- [ ] No segmentation faults
-- [ ] Lines include `\n` (except last line when appropriate)
-- [ ] Code follows 42 Norm
-- [ ] Compiles with flags: `-Wall -Wextra -Werror -D BUFFER_SIZE=42`
-- [ ] Bonus part (if submitted):
-  - [ ] Uses only one static variable
-  - [ ] Handles multiple file descriptors
-  - [ ] Can switch between fds without losing state
+- [+] Function reads lines correctly from files
+- [+] Works with stdin (standard input)
+- [+] Handles various buffer sizes (1, 42, 1024, 9999)
+- [+] No memory leaks detected
+- [+] No segmentation faults
+- [+] Lines include `\n` (except last line when appropriate)
+- [+] Code follows 42 Norm
+- [+] Compiles with flags: `-Wall -Wextra -Werror -D BUFFER_SIZE=42`
+- [+] Bonus part (if submitted):
+  - [+] Uses only one static variable
+  - [+] Handles multiple file descriptors
+  - [+] Can switch between fds without losing state
 
 ---
 
